@@ -8,7 +8,7 @@ const mobileMenuActive = ref(false)
 
 <template>
     <header class="fixed top-0 z-40 w-full flex justify-between items-center 2xl:px-80 md:px-20 bg-[#f2eee3]">
-        <img src="../assets/logo/Go World-logos_transparent.png" class="md:h-48 h-24" />
+        <img src="../assets/logo/gw.png" class="md:h-48 h-24" />
         <nav class="text-[#5065a8] hidden md:flex items-center gap-x-8 text-xl font-semibold">
             <a class="transition duration-300 hover:scale-105 cursor-pointer">Meet the Team</a>
             <a class="transition duration-300 hover:scale-105 cursor-pointer">Venture Lab</a>
